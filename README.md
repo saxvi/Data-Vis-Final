@@ -8,7 +8,7 @@ Open terminal (or powershell if u rock with it), and start a local Python server
 
   If we had to guess, we would assume it's at in your downloads somewhere after extracting the zip folder, but what do we know? You're the TA (or professor. hi professor). 
   
-  For your convenience, once in the folder, run this line:
+  For your convenience, once you've navigated to the folder in terminal (or powershell), run this line:
   
   ```powershell
   python -m http.server 8080 
