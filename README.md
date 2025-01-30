@@ -6,13 +6,13 @@ For the 6th lab/final project, we used a subset of the ```colleges.csv``` datase
 
 Open terminal (or powershell if u rock with it), and start a local Python server on your machine in the folder containing the project. 
 
-If we had to guess, we would assume it's at in your downloads somewhere after extracting the zip folder, but what do we know? You're the TA (or professor. hi professor). 
-
-For your convenience, once in the folder, run this line:
-
-```powershell
-python -m http.server 8080 
-```
+  If we had to guess, we would assume it's at in your downloads somewhere after extracting the zip folder, but what do we know? You're the TA (or professor. hi professor). 
+  
+  For your convenience, once in the folder, run this line:
+  
+  ```powershell
+  python -m http.server 8080 
+  ```
 (or any other combination of four numbers beginning with 8 if that doesn't work)
 
 ## Visualization Exploration
