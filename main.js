@@ -442,5 +442,4 @@ d3.csv("colleges - city colleges.csv", function (csv) {
             sortBySalary();
         }
     });
-
 });
