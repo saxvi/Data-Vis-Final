@@ -4,7 +4,7 @@ For the 6th lab/final project, we used a subset of the ```colleges.csv``` datase
 
 ## To deploy visualization
 
-Open terminal (or powershell if u rock with it), and start a local Python server on your machine in the folder containing the project. 
+Open terminal (or powershell if u rock with it), and start a local Python server on your machine in the folder containing the project (you should have python 3 installed) . 
 
   If we had to guess, we would assume it's at in your downloads somewhere after extracting the zip folder, but what do we know? You're the TA (or professor. hi professor). 
   
